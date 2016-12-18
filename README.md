@@ -1,4 +1,6 @@
-# rio
+
+<img src="https://github.com/beerjs/rio/blob/master/images/beerjs.png?raw=true" align="left"></img>
+# rio 
 BeerJS: Rio de Janeiro, Brasil
 
 Opa Pessoal, bem vindos ao readme do nosso repositório. Esta é uma versão inicial do canal para os devs do Rio.
