@@ -1,5 +1,5 @@
 
-<img src="https://github.com/beerjs/rio/blob/master/images/beerjs.png?raw=true" align="left" width="40%" heigth="40%"></img>
+<img src="https://github.com/beerjs/rio/blob/master/images/beerjs.png?raw=true" align="left" width="35%" heigth="35%"></img>
 # rio 
 BeerJS: Rio de Janeiro, Brasil
 
