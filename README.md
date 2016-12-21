@@ -7,7 +7,7 @@ BeerJS: Rio de Janeiro, Brasil <p>
 
 Opa Pessoal, bem vindos ao readme do nosso repositório. Esta é uma versão inicial do canal para os devs do Rio.
 
-Usamos github (este site!) Para discutir as coisas. Se você não está acostumado a isso, aqui está um vídeo de introdução rápida.
+Usamos github (este site!) Para discutir as coisas. Se você não está acostumado a isso, <a href="https://www.youtube.com/watch?v=KlrJVSJRUN4">aqui</a> está um vídeo de introdução rápida.
 <br>
 #Junte-se ao BeerJS no Slack
 
