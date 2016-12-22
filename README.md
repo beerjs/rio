@@ -5,9 +5,13 @@
 #Rio <p>
 BeerJS: Rio de Janeiro, Brasil <p>
 
-Bem vindos ao readme do nosso repositório. Esta é uma versão inicial do canal para os devs do Rio.
+Bem vindos ao readme do nosso repositório. Esta é uma versão inicial do canal para os devs do Rio.<p>
 
 Utilizamos o GitHub para discutir tecnologias relacionadas ao JavaScript. Se você ainda não está acostumado com esta ferramenta, <a href="https://www.youtube.com/watch?v=KlrJVSJRUN4">aqui</a> está um vídeo de introdução.
+<br>
+
+#Próximos Eventos
+Fiquem ligados! Nós divulgamos os próximos eventos através de novas <a href="https://github.com/beerjs/rio/issues">issues</a> e através do <a href="https://www.meetup.com/pt-BR/BeerJS-Rio/">nosso canal</a> no meetup.
 <br>
 
 #Junte-se ao BeerJS no Slack
@@ -24,6 +28,7 @@ Para ter acesso aos repositórios, clique <a href="https://github.com/beerjs/rio
 
 #Nosso Código de Conduta
 Em caso de dúvidas sobre os princípios que seguimos em nossa comunidade, acesse <a href="https://github.com/stumpsyn/policies">aqui</a> para maiores informações.
+<br>
 
 #Organizadores
 <ul>
