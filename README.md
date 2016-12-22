@@ -14,7 +14,7 @@ Utilizamos o GitHub para discutir tecnologias relacionadas ao JavaScript. Se voc
 Fiquem ligados! Nós divulgamos os próximos eventos através de novas <a href="https://github.com/beerjs/rio/issues">issues</a> e também pelo <a href="https://www.meetup.com/pt-BR/BeerJS-Rio/">nosso canal</a> no meetup.
 <br>
 
-#Junte-se ao BeerJS no Slack
+#Junte-se a nós no Slack
 https://beerjs-slack-invite.herokuapp.com/ (não se esqueça de entrar no canal #riodejaneiro)
 <br>
 
