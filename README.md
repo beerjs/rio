@@ -27,3 +27,6 @@ Para ter acesso aos repositórios, clique <a href="https://github.com/beerjs/rio
   <li>Alan Granadeiro</li>
   <li>Natanael Maia</li>
 </ul>
+
+#Nosso Código de Conduta
+Em caso de dúvidas sobre os princípios que seguimos em nossa comunidade, acesse <a href="https://github.com/stumpsyn/policies" target="_blank">aqui</a> para maiores informações.
