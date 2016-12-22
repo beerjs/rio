@@ -19,7 +19,7 @@ https://beerjs-slack-invite.herokuapp.com/ (não se esqueça de entrar no canal 
 <br>
 
 #Repositórios da comunidade
-Acesse <a href="https://github.com/beerjs/rio/blob/nmaia-patch-1/repositorios.md" target="_blank">aqui</a> os repositórios de nossa comunidade.
+Para ter acesso aos repositórios, clique <a href="https://github.com/beerjs/rio/blob/nmaia-patch-1/repositorios.md" target="_blank">aqui</a>.
 <br>
 
 #Organizadores
