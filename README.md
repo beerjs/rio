@@ -27,6 +27,6 @@ Em caso de dúvidas sobre os princípios que seguimos em nossa comunidade, acess
 
 #Organizadores
 <ul>
-  <li>Alan Granadeiro</li>
-  <li>Natanael Maia</li>
+  <li><a href="https://github.com/agranadeiro">Alan Granadeiro</a></li>
+  <li><a href="https://github.com/nmaia">Natanael Maia</a></li>
 </ul>
