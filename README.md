@@ -18,7 +18,7 @@ https://beerjs-slack-invite.herokuapp.com/ (não se esqueça de entrar no canal 
 <a href="https://instagram.com/beerjsrio">@beerjsrio</a>
 <br>
 
-#Repositórios da comunidade
+#Repositórios da Comunidade
 Para ter acesso aos repositórios, clique <a href="https://github.com/beerjs/rio/blob/master/repositorios.md">aqui</a>.
 <br>
 
