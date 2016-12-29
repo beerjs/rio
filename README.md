@@ -15,7 +15,7 @@ Fiquem ligados! Nós divulgamos os próximos eventos através de novas <a href="
 <br>
 
 #Junte-se a nós no Slack
-https://beerjs-slack-invite.herokuapp.com/ (não se esqueça de entrar no canal #riodejaneiro)
+https://beerjs-slack-invite.herokuapp.com/ (não se esqueça de entrar no canal #riodejaneiro e também no canal #havefun)
 <br>
 
 #Siga o nosso Instagram 
